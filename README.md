@@ -2,7 +2,7 @@
 <h3 align="center">Computer Science student at <i>Pontifícia Universidade Católica of Minas Gerais (PUC-Minas)</i>.</h3>
 
 
-- 👨‍💻 I like to create new projects with new ideas like my last project in Python: **Secure File (Encrypt and Decrypt Files with Security)**
+- 👨‍💻 I like to create new projects with new ideas like my last project in Python: <a href="https://github.com/WKO8/SecureFile">**Secure File (Encrypt and Decrypt Files with Security)**</a>
 
 - 🌱 I’m currently learning **C, C++, C#, Java, JavaScript**
 
