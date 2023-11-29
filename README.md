@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **C, C++, C#, Java, JavaScript**
 
-- 📄 Know more about me: **I really enjoy playing games in my spare time, especially FPS, like VALORANT and CSGO.**
+- 📄 Know more about me: **I really enjoy playing games in my spare time, especially FPS, like VALORANT and CS2.**
 
 - 🤝 I’m looking for help with **new projects and new ideas**
 
