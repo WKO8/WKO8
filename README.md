@@ -4,7 +4,7 @@
 
 - 👨‍💻 I like to create new projects with new ideas like my last project in Python: <a href="https://github.com/WKO8/SecureFile">**Secure File (Encrypt and Decrypt Files with Security)**</a>
 
-- 🌱 I’m currently learning **C, C++, C#, Java, JavaScript**
+- 🌱 I’m currently learning **ReactJS & NodeJs**
 
 - 📄 Know more about me: **I really enjoy playing games in my spare time, especially FPS, like VALORANT and CS2.**
 
