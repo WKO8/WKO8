@@ -2,9 +2,9 @@
 <h3 align="center">Computer Science student at <i>Pontifícia Universidade Católica of Minas Gerais (PUC-Minas)</i>.</h3>
 
 
-- 👨‍💻 I like to create new projects with new ideas like my last project in Python: <a href="https://github.com/WKO8/SecureFile">**Secure File (Encrypt and Decrypt Files with Security)**</a>
+- 👨‍💻 I like to create new projects with new ideas like my last project: <a href="https://github.com/WKO8/recibosnow">**RecibosNow - Professional online receipt generator**</a>
 
-- 🌱 I’m currently learning **ReactJS, Typescript & NodeJs**
+- 🌱 I’m currently learning **ReactJS, Typescript, NodeJS , Python & Java**
 
 - 📄 Know more about me: **I really enjoy playing games in my spare time, especially FPS, like VALORANT and CS2.**
 
