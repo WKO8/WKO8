@@ -2,11 +2,11 @@
 <h3 align="center">Computer Science student at <i>Pontifícia Universidade Católica of Minas Gerais (PUC-Minas)</i>.</h3>
 
 
-- 👨‍💻 I like to create new projects with new ideas like my last project: <a href="https://github.com/WKO8/recibosnow">**RecibosNow - Professional online receipt generator**</a>
+- 👨‍💻 I like to create new projects with new ideas like my last project: <a href="https://wkohub.com">**WKO Hub - Your local business, at the next level.**</a>
 
-- 🌱 I’m currently learning **ReactJS, Typescript, NodeJS , Python & Java**
+- 🌱 I’m currently learning **Rust, ReactJS, Typescript, Python and Swift**
 
-- 📄 Know more about me: **I really enjoy playing games in my spare time, especially FPS, like VALORANT and CS2.**
+- 📄 Know more about me: **I really enjoy playing games in my spare time, especially FPS, like CS2.**
 
 - 🤝 I’m looking for help with **new projects and new ideas**
 
